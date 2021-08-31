@@ -1,2 +1,2 @@
-# benjac-front
-Frontend para el proyecto de benja castro.
+# benjac-front 🚀
+Frontend para el proyecto de benja castro. 💯
